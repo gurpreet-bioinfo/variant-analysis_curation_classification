@@ -121,8 +121,8 @@ Differences in DNA sequences among human genomes, detected either in coding regi
 4. Step C: Selection of standard variant comment based on combined class C
     - 0: Normal findings 
     - F: Normal findings - No P/LP 
-    - F/E: Normal findings - No P variants e related to the phenotype
-    - E/D: Normal findings - No P to explain the phenotype
+    - F/E: Normal findings - No P variants related to the phenotype
+    - E/D: Normal findings - No P variants to explain the phenotype
     - E/D: Genetic variant of potential interest
     - E/D: Heterozygosity for a recessive genetic variant of potential interest
     - D: Genetic variant that increases susceptibility for this phenotype
