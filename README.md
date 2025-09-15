@@ -1,4 +1,4 @@
-### ❓ What are Genomic Variants from omics (WGS/WES) data and what scientific concepts should you know for stress-free, organized and accurate variant curation and classification? 🎯 
+### ❓ What are Genomic Variants from omics (WGS/WES) data and what scientific concepts should you know for stress-free, organized and accurate 🧬 variant curation and classification? 🎯 
 
 ### 💡 Concepts to know:
 
