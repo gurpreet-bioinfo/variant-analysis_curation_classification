@@ -129,5 +129,5 @@ Differences in DNA sequences among human genomes, detected either in coding regi
     - C/B/A: Disease-associated pathogenic variant
     - X: Genetic variant unrelated to the clinical question
 
-### Tutorial
-Refer 📌 tutorial here: https://github.com/gurpreet-bioinfo/vcf_concepts_analysis_visualization/tree/main to explore and interactively visualize a VCF file using free web-based tools, and hands-on with the above **concepts**.
+### 📌 Tutorial
+Refer tutorial here: https://github.com/gurpreet-bioinfo/vcf_concepts_analysis_visualization/tree/main to explore and interactively visualize a VCF file using free web-based tools, and hands-on with the above **concepts**.
